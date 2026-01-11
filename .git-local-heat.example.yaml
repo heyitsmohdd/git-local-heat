@@ -1,0 +1,20 @@
+# Example Configuration File for git-local-heat
+# Save as ~/.git-local-heat.yaml
+
+# Email to filter commits by (if not provided, will be auto-detected from git config)
+email: your@email.com
+
+# Root directory to scan for git repositories
+path: /Users/you/Developer
+
+# Number of months to display (6 or 12)
+months: 12
+
+# Color scheme for the heatmap (5 shades from dark to bright green)
+# These are the default GitHub-style colors
+colorScheme:
+  - "#161b22"  # No contributions (dark background)
+  - "#0e4429"  # Low (1-2 commits per day)
+  - "#006d32"  # Medium-low (3-5 commits per day)
+  - "#26a641"  # Medium-high (6-10 commits per day)
+  - "#39d353"  # High (11+ commits per day)

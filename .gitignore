@@ -1,0 +1,38 @@
+# Binaries (only in root, not source files)
+/git-local-heat
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary
+*.test
+
+# Output of go build
+*.out
+
+# Dependency directories
+vendor/
+
+# Go workspace files
+go.work
+go.work.sum
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Config files (except example)
+.git-local-heat.yaml
+.git-local-heat.yml
+
+# Cache
+.cache/
