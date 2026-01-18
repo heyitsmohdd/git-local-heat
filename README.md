@@ -36,7 +36,7 @@ Less ■ ■ ■ ■ ■  More
 ### Via Go Install (Recommended)
 
 ```bash
-go install github.com/shariqattar/git-local-heat/cmd/git-local-heat@latest
+go install github.com/heyitsmohdd/git-local-heat/cmd/git-local-heat@latest
 ```
 
 ### From Source
@@ -163,7 +163,7 @@ Contributions are welcome! Please follow these steps:
 
 ```bash
 # Clone the repo
-git clone https://github.com/shariqattar/git-local-heat.git
+git clone https://github.com/heyitsmohdd/git-local-heat.git
 cd git-local-heat
 
 # Install dependencies
@@ -193,9 +193,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-**Shariq Attar**  
-Email: shariqattar74@gmail.com  
-GitHub: [@shariqattar](https://github.com/shariqattar)
+ 
+GitHub: (https://github.com/heyitsmohdd)
 
 ---
 
