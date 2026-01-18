@@ -43,7 +43,7 @@ go install github.com/heyitsmohdd/git-local-heat/cmd/git-local-heat@latest
 
 ```bash
 # Clone the repository
-git clone https://github.com/shariqattar/git-local-heat.git
+git clone https://github.com/heyitsmohdd/git-local-heat.git
 cd git-local-heat
 
 # Build the binary
